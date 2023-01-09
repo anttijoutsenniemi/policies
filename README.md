@@ -1,5 +1,5 @@
 # policies
-Privary policies for my apps
+Privary policies for Kelmi Apps applications
 
 VerseGenerator
 
